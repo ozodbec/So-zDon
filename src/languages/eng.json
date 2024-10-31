@@ -1,0 +1,24 @@
+{
+    "welcome": "Welcome",
+    "readArticle": "Read More",
+    "writeArticle": "Write Article",
+    "myName":"don't mess with my name",
+    "publishedAt":"published at",
+    "category": "Category",
+    "studyDuration": "Study duration",
+    "published": "Published",
+    "authorName":"Author name",
+    "articleTitle":"Article title",
+    "selectCategory":"Select category",
+    "createdDate":"Created date",
+    "uploadYourImg":"Upload your img",
+    "article":"Article",
+    "submit":"Submit",
+    "placeHolderName":"name...",
+    "placeHolderArticleTitle":"article title...",
+    "placeHolderPublished":" 10 minute...",
+    "placeHolderThisArticle":" this article...",
+    "myArticle":" My article"
+    
+  }
+  

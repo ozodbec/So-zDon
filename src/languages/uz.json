@@ -1,0 +1,25 @@
+{
+    "welcome": "Xush kelibsiz",
+    "readArticle": "Ko'proq o'qish",
+    "writeArticle": "Maqola yozish",
+    "myName":"mening ismim bilan ishing bo'lmasin",
+    "publishedAt": "chop qilingan sana",
+    "category": "Kategoriya",
+    "studyDuration": "O'qish davomiyligi",
+    "published": "Chop etilgan",
+    "authorName":"Mu'alif ismi",
+    "articleTitle":"Maqola sarlavhasi",
+    "selectCategory":"Kategoriya",
+    "createdDate":"Maqola chop etligan sana",
+    "uploadYourImg":"Rasmingizni yuklang",
+    "article":"Maqola",
+    "submit":"Chop etish",
+    "placeHolderName":"ism...",
+    "placeHolderArticleTitle":"maqola sarlavhasi...",
+    "placeHolderPublished":" 10 minut...",
+    "placeHolderThisArticle":" bu maqola...",
+    "myArticle":"Mening maqolam"
+
+
+  }
+  
